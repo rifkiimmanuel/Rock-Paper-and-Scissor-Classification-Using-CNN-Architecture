@@ -1,7 +1,7 @@
 # Rock-Paper-and-Scissor-Classification-Using-CNN-Architecture
 This is the final project of the class “Learning Basic Machine Learning” by dicoding. 
-This project involves image classification (rock, paper, scissor) using Convolutional Neural Networks (CNN) Architecture.
-Which can recognize between rock, paper or scissor based on hand gestures.
+This project involves image classification (Rock, Paper and Scissor) using Convolutional Neural Networks (CNN)  which is a type of Deep Learning neural network architecture.
+Which can recognize rock, paper and scissor based on hand gestures.
 
 About this project: 
 1. Dataset is divided into train set and validation set. With criteria of the validation set size should be 40% of the total dataset (training data has 1314 samples, and validation data has 874 samples).
